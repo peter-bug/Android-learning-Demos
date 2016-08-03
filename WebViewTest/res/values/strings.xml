@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">webview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="otheractivity_name">OS信息</string>  
+    <string name="id">类型：</string>  
+   <string name="name">数据：</string>  
+   <string name="age">年龄</string>  
+	<string name="phoneNumber">phoneNumber</string>
+	<string name="phoneModel">phoneModel</string>  
+   <string name="phoneSdkVersion">phoneSdkVersion</string>  
+   <string name="phoneReleaseVersion">phoneReleaseVersion</string> 
+ 
+</resources>
