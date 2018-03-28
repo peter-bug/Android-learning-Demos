@@ -1,7 +1,6 @@
 # Android-self-learning-way
 
-The road to self-learning requires a lot of perseverance.
+本项目记录了 Android 入门学习过程中的一些 Demo 练习。
 
-I will share some of my recent study results here from time to time, and share some learning experience to help those who have the same requirement as me.
 
-Where there is a will, there is a way. Let us keep learning all of our life.
+注：**本站将停止维护**，新维护的 Github 地址为：[https://github.com/AlanKeene](https://github.com/AlanKeene).
