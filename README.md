@@ -1,4 +1,4 @@
-# Android-self-learning-way
+# Android-learning-Demos
 
 本项目记录了 Android 入门学习过程中的一些 Demo 练习。
 
